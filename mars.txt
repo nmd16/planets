@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my favorite color.
 Two Moons may be a problem for Wolfman.
 We will need to manufacture our own oxygen.
 
 hi! This is Nicole, I added something :) 
+=======
+Cold and dry, but everything is my favorite color. The two moons may be a problem for Wolfman. However, the Mummy will appreciate the lack of humidity.  
+>>>>>>> 8a3e815d6657a9efa8ef9c37029b056a3b547404
